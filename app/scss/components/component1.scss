@@ -18,8 +18,8 @@
         &__img {
             &:hover {
                 &::before {
-                    height: 44.7vh;
-                    width: 44.7vh;
+                    height: rem(300);
+                    width: rem(300);
                     display: flex;
                     align-items: center;
                     justify-content: center;
