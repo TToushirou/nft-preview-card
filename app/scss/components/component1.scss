@@ -6,7 +6,7 @@
     height: rem(570);
     width: rem(350);
     border-radius: rem(20) !important;
-    @include breakpoint-down(xxlarge) {
+    @include breakpoint(xsmall) {
 
         // start of img section
         &__img {
